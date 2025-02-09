@@ -12,8 +12,6 @@
 
 
 ### 🔎   Find me at:
-<a href="[https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/jo%C3%A3o-gomes-45b09850/)" rel="nofollow">
+<a href="https://www.linkedin.com/in/jo%C3%A3o-gomes-45b09850/" target="_blank" rel="nofollow">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
-
-
